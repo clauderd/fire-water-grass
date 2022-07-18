@@ -1,2 +1,2 @@
-# AI-fire-water-grass
-A mini A.I rock-paper-scissor type game, using fire, water and grass.
+#fire-water-grass
+A mini rock-paper-scissor type game, using fire, water and grass, where the computer learns patterns.
