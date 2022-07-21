@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors
+# FIre-Water-Grass
 A mini rock-paper-scissor type game, using fire, water and grass, where the computer learns patterns.
 
 To play, download the master file into working directory and unzip.
